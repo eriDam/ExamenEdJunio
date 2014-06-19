@@ -7,7 +7,8 @@ public class ExamenEd {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Rama pruebas
+		System.out.println("Ok rama pruebas");
 
 	}
 
